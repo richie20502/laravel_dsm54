@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Es que la verdad no dejo de pensar en ti .|. </h1>
+    <h1>Es que la verdad no dejo de pensar en ti </h1>
 </body>
 </html>
